@@ -1,4 +1,21 @@
-body{
-    background-color: #252530;
-    color: whitesmoke;
+.b-shadow{
+    border: 1px solid black;
+    box-shadow: 20px 20px 0px  rgba(0, 0, 0, 0.692);
+}
+
+.normal{
+    background-color: lightgreen;
+}
+
+.under-weight{
+    background-color: yellow;
+}
+
+.over-weight{
+    background-color: orange;
+}
+
+.obese{
+    background-color:red;
+    color: white;
 }
